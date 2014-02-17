@@ -1,0 +1,14 @@
+{
+  "name": "exec-parallel",
+  "version": "0.0.1",
+  "description": "Command-line parallel execution with callback command",
+  "main": "index.js",
+  "bin": {
+    "exec-parallel": "bin.js"
+  },
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "dependencies": {
+    "spawn-command": "0.0.2"
+  }
+}
