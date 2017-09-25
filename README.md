@@ -1,5 +1,7 @@
 # exec-parallel
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/exec-parallel.svg)](https://greenkeeper.io/)
+
 Command-line parallel execution with callback command.
 
 # Install
